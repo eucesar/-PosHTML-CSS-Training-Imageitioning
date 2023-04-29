@@ -9,7 +9,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/HTML-CSS-Training-Imageitioning.git
+https://github.com/eucesar/HTML-CSS-Training-Image-Positioning.git
 ```
 
 ## Cesar
