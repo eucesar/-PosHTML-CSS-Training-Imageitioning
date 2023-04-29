@@ -4,7 +4,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </p>
 
-> ✍️ - I developed a site just for flexbox and grid review with image, and future flexbox and grid annotations.
+> ✍️ -  I developed a page to train image positioning with Flebox, Table and Grid.
 
 ## Download
 
